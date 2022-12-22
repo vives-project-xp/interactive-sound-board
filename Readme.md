@@ -1,17 +1,21 @@
 # interactive-sound-board-frontend
 
-Before you can start the server you need to install the necessary dependencies.
-
-First command "npm install"
-Then "npm run dev"
-
-Then you can copy the link and paste it on the browser. Will then show you your hosted server.
-
 ## Group members
+
 - Tristan De Lil
 - Jonas De Rous
 - Aaron Delplancq
 - Rayan Azzi
+
+## Link to all the modules
+
+[ESP explenation](https://github.com/vives-project-xp/interactive-sound-board-ESP)
+
+[Synthesizer explenation](https://github.com/vives-project-xp/interactive-sound-board-synthesizer)
+
+[Front end explenation](https://github.com/vives-project-xp/interactive-sound-board-frontend)
+
+[PCB design explenation](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 ## Abstract
 
@@ -77,4 +81,10 @@ We got the ESPs and sensors very quickly, so the research behind that could star
 
 As a result, we have 5 modules, each with a PCB, ESP, ultrasonic sensors and 4 batteries to power it. Those modules are connected to a Raspberry PI to connect to Vue and the bluetooth box to produce sound. There is also a second PI connected as Access Point. There is sound and the Front end interface works.
 
+## Conclusion
 
+Ur goal was from week one to realise an project with sound and differant modules. We got there on the end, was a challenge, but we learned a lot from it. The front end is user friendly and the final projects works. It is also scalabel and you can add many other feautres as possible extenssions.
+
+## Possible extensions
+
+Each note a unique frequency. Add LEDs and make them react to the music. For example we coud add an Led strip to the ESP module and it changes with the normalized value of the ultrasonic sensor. Fully Docker running project.
