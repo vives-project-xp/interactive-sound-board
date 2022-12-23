@@ -9,15 +9,15 @@
 
 ## Link to all the modules
 
-[ESP explenation](https://github.com/vives-project-xp/interactive-sound-board-ESP)
+[ESP explanation](https://github.com/vives-project-xp/interactive-sound-board-ESP)
 
-[Synthesizer explenation](https://github.com/vives-project-xp/interactive-sound-board-synthesizer)
+[Synthesizer explanation](https://github.com/vives-project-xp/interactive-sound-board-synthesizer)
 
-[Front end explenation](https://github.com/vives-project-xp/interactive-sound-board-frontend)
+[Front end explanation](https://github.com/vives-project-xp/interactive-sound-board-frontend)
 
-[Access point explenation](https://github.com/vives-project-xp/interactive-sound-board-broker-AP/tree/main/AcessPoint)
+[Access point explanation](https://github.com/vives-project-xp/interactive-sound-board-broker-AP/tree/main/AcessPoint)
 
-[PCB design explenation](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+[PCB design explanation](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 ## Abstract
 
